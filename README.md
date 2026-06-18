@@ -1,9 +1,28 @@
-# 👩‍💻 Isabelle Victória
+# 👋 Olá! Eu sou a Isabelle Vitória
 
-🎓 Estudante de Ciência da Computação  
-🎯 Focada em desenvolvimento backend e banco de dados  
-💡 Interesse em projetos que impactem pessoas  
-🚀 Buscando crescer profissionalmente na área de tecnologia  
+💻 Desenvolvedora Back-end em formação
+
+🎓 Estudante de Ciência da Computação
+
+☕ Focada em Java, Spring Boot, Python e Banco de Dados
+
+🚀 Construindo APIs REST e projetos para meu portfólio
+
+📚 Atualmente estudando Arquitetura de Software e Microsserviços
+
+🎯 Em busca da minha primeira oportunidade como Desenvolvedora Java.
+
+---
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
