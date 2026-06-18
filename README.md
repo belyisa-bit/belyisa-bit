@@ -28,16 +28,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ISABELLE%20VICTORIA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-victória-b4237a345)
 
+
 ---
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,github" />
 </p>
----
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,ts,react,postgres,mysql,git,github,docker,postman,vscode,idea" />
-</p>
-
 ---
