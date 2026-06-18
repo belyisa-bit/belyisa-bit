@@ -13,18 +13,6 @@
 🎯 Em busca da minha primeira oportunidade como Desenvolvedora Java.
 
 ---
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -41,25 +29,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ISABELLE%20VICTORIA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-victória-b4237a345)
 
 ---
+## 🚀 Tecnologias
 
-## 🛠️ Minhas Skills
-
-### 💻 Linguagens e Dados
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
+</p>
 ---
 
-### ⚙️ Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,ts,react,postgres,mysql,git,github,docker,postman,vscode,idea" />
+</p>
 
 ---
