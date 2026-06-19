@@ -35,4 +35,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,github" />
 </p>
----
