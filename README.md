@@ -2,13 +2,13 @@
 
 💻 Desenvolvedora Back-end em formação
 
-🎓 Estudante de Ciência da Computação
+🎓 Graduanda em Ciência da Computação
 
 ☕ Focada em Java, Spring Boot, Python e Banco de Dados
 
 🚀 Construindo APIs REST e projetos para meu portfólio
 
-📚 Atualmente estudando Arquitetura de Software e Microsserviços
+📚 Atualmente estagiando em análise de sistemas
 
 🎯 Em busca da minha primeira oportunidade como Desenvolvedora Java.
 
