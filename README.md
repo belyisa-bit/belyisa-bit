@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Isabelle Vitória
+# 👋 Olá! Eu sou a Isabelle Victória
 
 💻 Desenvolvedora Back-end em formação
 
@@ -6,11 +6,7 @@
 
 ☕ Focada em Java, Spring Boot, Python e Banco de Dados
 
-🚀 Construindo APIs REST e projetos para meu portfólio
-
 📚 Atualmente estagiando em análise de sistemas
-
-🎯 Em busca da minha primeira oportunidade como Desenvolvedora Java.
 
 ---
 
