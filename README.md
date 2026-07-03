@@ -6,7 +6,7 @@
 
 ☕ Focada em Java, Spring Boot, Python e Banco de Dados
 
-📚 Atualmente estagiando em análise de sistemas
+📚 Atualmente sou estagiária em análise de sistemas
 
 ---
 
