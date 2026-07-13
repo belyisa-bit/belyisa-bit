@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora Back-end em formação
 
-🎓 Graduanda em Ciência da Computação
+🎓 Graduanda em Ciência da Computação 
 
 ☕ Focada em Java, Spring Boot, Python e Banco de Dados
 
