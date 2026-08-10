@@ -10,14 +10,18 @@
 
 ---
 
-<div align="center">
+## 📊 Isabelle Vitória's GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=belyisa-bit&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=belyisa-bit&layout=compact&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=belyisa-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyisa-bit&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+    height="180"
+  />
+</p>
 ---
 
 ## 🌐 Onde me encontrar
