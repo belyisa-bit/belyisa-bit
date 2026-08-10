@@ -10,18 +10,8 @@
 
 ---
 
-## 📊 Isabelle Vitória's GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=belyisa-bit&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyisa-bit&layout=compact&theme=github_dark" height="180" alt="Top Languages" /> </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=belyisa-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyisa-bit&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
-    height="180"
-  />
-</p>
 ---
 
 ## 🌐 Onde me encontrar
