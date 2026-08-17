@@ -1,12 +1,8 @@
 # 👋 Olá! Eu sou a Isabelle Victória
 
-💻 Desenvolvedora Back-end em formação
+Sou estudante do 4º período de Ciência da Computação e atuo como Analista de Sistemas. Tenho experiência com desenvolvimento de aplicações utilizando Java, Spring Boot, Angular e Go, além do uso de ferramentas como Power BI e Excel.
 
-🎓 Graduanda em Ciência da Computação 
-
-☕ Focada em Java, Spring Boot, Python e Banco de Dados
-
-📚 Atualmente sou estagiária em Análise de Sistemas
+Busco aprimorar constantemente meus conhecimentos em desenvolvimento de software, DevOps e computação em nuvem, sempre com foco no aprendizado contínuo e na criação de soluções eficientes.
 
 <div align="center">
 
