@@ -8,11 +8,55 @@
 
 📚 Atualmente sou estagiária em Análise de Sistemas
 
----
+<div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=belyisa-bit&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyisa-bit&layout=compact&theme=github_dark" height="180" alt="Top Languages" /> </p>
+### Tecnologias em aprendizado
 
----
+<table>
+<tr>
+<td align="center">
+
+#### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
+</p>
+
+</td>
+
+<td align="center">
+
+#### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+</td>
+
+<td align="center">
+
+#### Library/Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,spring" />
+</p>
+
+</td>
+
+<td align="center">
+
+#### Outros
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,mongodb,postgres" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🌐 Onde me encontrar
 
