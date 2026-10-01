@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Isabelle Victória
 
-Sou estudante do 4º período de Ciência da Computação e atuo como Analista de Sistemas. Tenho experiência com desenvolvimento de aplicações utilizando **Java, Spring Boot, Angular e Node.js**, além de conhecimentos em bancos de dados relacionais e Não-Relacionais, Docker e análise de dados.
+Sou estudante do 4º período de Ciência da Computação e atuo como Analista de Sistemas. Tenho experiência com desenvolvimento de aplicações utilizando **Java, Spring Boot, Angular e Node.js**, além de conhecimentos em bancos de dados relacionais, Docker e análise de dados.
 
 Busco aprimorar constantemente meus conhecimentos em desenvolvimento de software, DevOps e computação em nuvem, sempre com foco no aprendizado contínuo e na criação de soluções eficientes.
 
